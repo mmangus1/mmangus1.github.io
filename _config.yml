@@ -23,26 +23,26 @@ description: >- # used by seo meta and the atom feed
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://mmangus1.github.io"
+url: ""
 
 github:
-  username: github_username # change to your GitHub username
+  username: mmangus1 # change to your GitHub username
 
 twitter:
-  username: twitter_username # change to your Twitter username
+  username: MtthwMngs # change to your Twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@domain.com # change to your email address
+  name: Matthew Mangus
+  email: mtthwmngs@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your Twitter homepage
-    - https://github.com/username # change to your GitHub homepage
+    - https://twitter.com/MtthwMngs # change to your Twitter homepage
+    - https://github.com/mmangus1 # change to your GitHub homepage
     # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.facebook.com/Matthew.Mangus2
+    - https://www.linkedin.com/in/matthewpmangus
 
 # Site Verification Settings
 webmaster_verifications:
@@ -61,7 +61,7 @@ analytics:
   google:
     id: # fill in your Google Analytics ID
   goatcounter:
-    id: # fill in your GoatCounter ID
+    id: mmangus1 # fill in your GoatCounter ID
   umami:
     id: # fill in your Umami ID
     domain: # fill in your Umami domain
@@ -95,10 +95,10 @@ theme_mode: dark # [light | dark]
 # will be added to all media resources (site avatar, posts' images, audio and video files) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-cdn: "https://chirpy-img.netlify.app"
+cdn: "/"
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "/commons/avatar.jpg"
+avatar: "assets/img/favicons/avatar.png"
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
@@ -150,7 +150,7 @@ pwa:
 paginate: 10
 
 # The base URL of your site
-baseurl: "https://mmangus1.github.io"
+baseurl: ""
 
 # ------------ The following options are not recommended to be modified ------------------
 
